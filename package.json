@@ -1,0 +1,19 @@
+{
+  "name": "node-spriv",
+  "version": "1.0.0",
+  "description": "API Wrapper for Spriv 2FA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspenc72/node-spriv.git"
+  },
+  "author": "jspenc72",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspenc72/node-spriv/issues"
+  },
+  "homepage": "https://github.com/jspenc72/node-spriv#readme"
+}
